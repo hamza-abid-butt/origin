@@ -1,6 +1,5 @@
-toto
-titi
+toto;tchatha
+titi;kaka
 tutu
 tata;Hamza
 azzaza
-usama
